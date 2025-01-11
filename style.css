@@ -1,0 +1,19 @@
+
+header
+{
+background-color: bisque;
+}
+p
+{
+color: teal !important;
+}
+a
+{
+    color: hotpink;
+}
+section
+{
+height:50px;
+margin-bottom:5px;
+background-color: deepskyblue;
+}
